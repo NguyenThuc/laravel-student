@@ -1,0 +1,41 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// font font-awesome
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css);
+@import url(https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+
+// common
+@import 'common';
+@font-face {
+    font-family: Hiragino Kaku Gothic ProN;
+    src: url('../../public/fonts/Hiragino_Kaku_Gothic_ProN_W3.otf');
+  }
+.background-auth {
+    background: #f8f8f8;
+}
+body {
+    .page-title {
+        color: red;
+        height: 36px;
+        left: 557px;
+        top: 260px;
+
+        font-family: 'Hiragino Kaku Gothic ProN';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 36px;
+        /* identical to box height, or 100% */
+
+        text-align: center;
+
+        /* Text */
+
+        color: #162B44;
+    }
+}
+
