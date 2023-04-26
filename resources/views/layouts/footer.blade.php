@@ -23,7 +23,7 @@
             </div>
           
             <div class="col-sm-12 col-md-3 col-lg-3 col-xl-3 copyright">
-                <span class="footer-nav float-end">Copyright ©2020 Envizion, Inc. All Rights Reserved.</span>
+            
             </div>
         </div>
     </div>
