@@ -1,8 +1,6 @@
 <nav class="navbar navbar-expand-lg mb-4 header" style="background: #f8f8f8;">
     <div class="container-fluid">
-        <a class="navbar-brand " href="/teacher/dashboard">
-            <img src="{{ asset('/') }}images/logo.png">
-        </a>
+
         <div class="collapse navbar-collapse justify-content-end" id="mob-navbar">
             @auth
             @if(!isset($disableAuth) || $disableAuth === true)
